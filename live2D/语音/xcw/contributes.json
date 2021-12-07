@@ -1,0 +1,109 @@
+{
+  "contributes": [
+    {
+      "keywords": [ "function", "=>", "func ", "def " ],
+      "voices": [
+        "function_01.m4a",
+        "function_02.m4a",
+        "function_03.m4a"
+      ],
+      "texts": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+
+    {
+      "keywords": [ "if" ],
+      "voices": [
+        "if_01.m4a",
+        "if_02.m4a"
+      ],
+      "texts": [
+        "4",
+        "5"
+      ]
+    },
+    {
+      "keywords": [ "for", "while" ],
+      "voices": [
+        "for_01.m4a",
+        "for_02.m4a"
+
+      ],
+      "texts": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "keywords": [ "catch", "except", "err != nil", "err!=nil" ],
+      "voices": [
+        "catch_01.m4a",
+        "catch_02.m4a"
+
+      ],
+      "texts": [
+        "8",
+        "9"
+      ]
+    },
+    {
+      "keywords": [ "import", "include" ],
+      "voices": [
+        "import_01.m4a"
+      ],
+      "texts": [
+        "10"
+      ]
+    },
+
+    {
+      "keywords": [ "fuck", "shit" ],
+      "voices": [ "fuck_pm_01.m4a" ],
+      "texts": [
+        "11"
+      ]
+    },
+    {
+      "keywords": [ "$time_morning" ],
+      "voices": [ "time_morning_01.m4a" ],
+      "texts": [
+        "12"
+      ]
+    },
+
+    {
+      "keywords": [ "$time_noon" ],
+      "voices": [ "time_noon_01.m4a" ],
+      "texts": [
+        "13"
+      ]
+    },
+    {
+      "keywords": [ "$time_evening" ],
+      "voices": [ "time_evening_01.m4a" ],
+      "texts": [
+        "14"
+      ]
+    },
+    {
+      "keywords": [ "$time_each_hour" ],
+      "voices": [
+        "time_each_hour_01.m4a",
+        "time_each_hour_02.m4a",
+        "time_each_hour_03.m4a",
+        "time_each_hour_04.m4a"
+
+      ],
+      "texts": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ]
+    }
+  ]
+
+}

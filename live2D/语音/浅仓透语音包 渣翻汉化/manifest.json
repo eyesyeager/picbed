@@ -1,0 +1,108 @@
+{
+    "name": "Asakura Tooru",
+    "display-name": "浅倉透",
+    "avatar": "avatar.png",
+    "avatar-dark": "avatar_dark.jpg",
+    "version": "1.0.0",
+    "description": "283 Production倾情奉献",
+    "author": "BANDAI NAMCO",
+    "languages": "cpp",
+    "gender": "female",
+    "locale": "jp",
+    "contributes": [
+        {
+            "keywords": [
+                "for",
+                "while"
+            ],
+            "voices": [
+                "busy.mp3",
+                "sleepy.mp3"
+            ],
+            "texts": [
+                "感觉你好忙呀~呼~",
+                "(打哈欠)~啊~抱歉"
+            ]
+        },
+        {
+            "keywords": [
+                "if",
+                "switch",
+                "else"
+            ],
+            "voices":[
+                "closer.mp3",
+                "ganba.mp3"
+            ],
+            "texts": [
+                "好啦，靠太近啦~",
+                "好啦，要加油哦~"
+            ]
+        },
+        {
+            "keywords": [
+                "define",
+                "include",
+                "using"
+            ],
+            "voices": [
+                "lazy.mp3",
+                "nn.mp3"
+            ],
+            "texts": [
+                "嗯？亲爱的，打起精神来~",
+                "嗯？有点困了么~"
+            ]
+        },
+        {
+            "keywords": [
+                "void",
+                "float",
+                "double",
+                "long",
+                "string",
+                "char"
+            ],
+            "voices": [
+                "thankyou.mp3",
+                "otsukare.mp3",
+                "otsukare2.mp3"
+            ],
+            "texts": [
+                "这个，嘻嘻，谢~谢~啦~",
+                "亲爱的，要加油哦~",
+                "亲爱的，摸摸~诶？再多抱抱？"
+            ]
+        },
+        {
+            "keywords": [
+                "return",
+                "cout"
+            ],
+            "voices": [
+                "home.mp3",
+                "ne.mp3"
+            ],
+            "texts": [
+                "这句我实在不会翻译",
+                "讷~你果然在看这里"
+            ]
+        },
+        {
+            "keywords": [
+                "break",
+                "continue"
+            ],
+            "voices": [
+                "阿~喂~你有没有在听我讲.mp3",
+                "请等一下，发生什么事了？.mp3",
+                "干......干什么.mp3"
+            ],
+            "texts": [
+                "阿~喂~你有没有在听我讲",
+                "请等一下，发生什么事了？",
+                "干......干什么"
+            ]
+        }
+    ]
+}
