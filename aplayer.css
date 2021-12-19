@@ -1,6 +1,6 @@
 .aplayer {
     background: #fff;
-    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: Arial, Helvetica, sans-serif; */
     margin: 5px;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .07), 0 1px 5px 0 rgba(0, 0, 0, .1);
     border-radius: 2px;
@@ -336,7 +336,7 @@
 
 .aplayer .aplayer-info .aplayer-music .aplayer-author {
     font-size: 13px;
-    color: #666
+    color: #fff;
 }
 
 .aplayer .aplayer-info .aplayer-controller {
